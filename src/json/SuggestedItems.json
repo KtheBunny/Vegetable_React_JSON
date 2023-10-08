@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "img": "img/img_vegetables_pepper.png"
+    },
+    {
+        "id": 2,
+        "img": "img/img_vegetables_carrot.png"
+    },
+    {
+        "id": 3,
+        "img": "img/img_vegetables_corn.png"
+    }
+]
